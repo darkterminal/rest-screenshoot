@@ -1,4 +1,4 @@
-# REST Screenshoot
+# REST Screenshoot 📸
 
 REST Screenshoot is a free tool for capturing screenshots of webpages via a REST API. It provides a simple, easy-to-use endpoint URL for generating screenshots.
 
